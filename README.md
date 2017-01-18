@@ -6,5 +6,5 @@
 <br>Sekolah   : SMK Telkom Malang
 <br>NIS       : 4854/1573.070 </h3>
 <h1>Screenshots</h1>
-![Screenshot 1](https://docs.google.com/uc?id=0B09XALl5QufvMUd4WnV2NC0zd3M)
-![Screenshot 2](https://docs.google.com/uc?id=0B09XALl5QufvY0hhT3JGMW9WdTg)
+![Screenshot 1](https://github.com/yessypermatasari/RecyclerView2/blob/master/rc2.1.png)
+![Screenshot 2](https://github.com/yessypermatasari/RecyclerView2/blob/master/rc2.png)
